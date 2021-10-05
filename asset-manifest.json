@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/.github.io/qtimer/static/css/main.59c4bd2a.chunk.css",
-    "main.js": "/.github.io/qtimer/static/js/main.b9510b8a.chunk.js",
-    "main.js.map": "/.github.io/qtimer/static/js/main.b9510b8a.chunk.js.map",
-    "runtime-main.js": "/.github.io/qtimer/static/js/runtime-main.1a1a8de3.js",
-    "runtime-main.js.map": "/.github.io/qtimer/static/js/runtime-main.1a1a8de3.js.map",
-    "static/js/2.608e9bd4.chunk.js": "/.github.io/qtimer/static/js/2.608e9bd4.chunk.js",
-    "static/js/2.608e9bd4.chunk.js.map": "/.github.io/qtimer/static/js/2.608e9bd4.chunk.js.map",
-    "static/js/3.1646ec95.chunk.js": "/.github.io/qtimer/static/js/3.1646ec95.chunk.js",
-    "static/js/3.1646ec95.chunk.js.map": "/.github.io/qtimer/static/js/3.1646ec95.chunk.js.map",
-    "index.html": "/.github.io/qtimer/index.html",
-    "static/css/main.59c4bd2a.chunk.css.map": "/.github.io/qtimer/static/css/main.59c4bd2a.chunk.css.map",
-    "static/js/2.608e9bd4.chunk.js.LICENSE.txt": "/.github.io/qtimer/static/js/2.608e9bd4.chunk.js.LICENSE.txt",
-    "static/media/chime.2e8dd27a.wav": "/.github.io/qtimer/static/media/chime.2e8dd27a.wav"
+    "main.css": "/qtimer/static/css/main.59c4bd2a.chunk.css",
+    "main.js": "/qtimer/static/js/main.b9510b8a.chunk.js",
+    "main.js.map": "/qtimer/static/js/main.b9510b8a.chunk.js.map",
+    "runtime-main.js": "/qtimer/static/js/runtime-main.0ff6087d.js",
+    "runtime-main.js.map": "/qtimer/static/js/runtime-main.0ff6087d.js.map",
+    "static/js/2.608e9bd4.chunk.js": "/qtimer/static/js/2.608e9bd4.chunk.js",
+    "static/js/2.608e9bd4.chunk.js.map": "/qtimer/static/js/2.608e9bd4.chunk.js.map",
+    "static/js/3.1646ec95.chunk.js": "/qtimer/static/js/3.1646ec95.chunk.js",
+    "static/js/3.1646ec95.chunk.js.map": "/qtimer/static/js/3.1646ec95.chunk.js.map",
+    "index.html": "/qtimer/index.html",
+    "static/css/main.59c4bd2a.chunk.css.map": "/qtimer/static/css/main.59c4bd2a.chunk.css.map",
+    "static/js/2.608e9bd4.chunk.js.LICENSE.txt": "/qtimer/static/js/2.608e9bd4.chunk.js.LICENSE.txt",
+    "static/media/chime.2e8dd27a.wav": "/qtimer/static/media/chime.2e8dd27a.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a1a8de3.js",
+    "static/js/runtime-main.0ff6087d.js",
     "static/js/2.608e9bd4.chunk.js",
     "static/css/main.59c4bd2a.chunk.css",
     "static/js/main.b9510b8a.chunk.js"

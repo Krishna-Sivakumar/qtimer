@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/qtimer/static/css/main.59c4bd2a.chunk.css",
-    "main.js": "/qtimer/static/js/main.3d05252f.chunk.js",
-    "main.js.map": "/qtimer/static/js/main.3d05252f.chunk.js.map",
+    "main.css": "/qtimer/static/css/main.847fdc6c.chunk.css",
+    "main.js": "/qtimer/static/js/main.9a2a2914.chunk.js",
+    "main.js.map": "/qtimer/static/js/main.9a2a2914.chunk.js.map",
     "runtime-main.js": "/qtimer/static/js/runtime-main.0ff6087d.js",
     "runtime-main.js.map": "/qtimer/static/js/runtime-main.0ff6087d.js.map",
     "static/js/2.608e9bd4.chunk.js": "/qtimer/static/js/2.608e9bd4.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.1646ec95.chunk.js": "/qtimer/static/js/3.1646ec95.chunk.js",
     "static/js/3.1646ec95.chunk.js.map": "/qtimer/static/js/3.1646ec95.chunk.js.map",
     "index.html": "/qtimer/index.html",
-    "static/css/main.59c4bd2a.chunk.css.map": "/qtimer/static/css/main.59c4bd2a.chunk.css.map",
+    "static/css/main.847fdc6c.chunk.css.map": "/qtimer/static/css/main.847fdc6c.chunk.css.map",
     "static/js/2.608e9bd4.chunk.js.LICENSE.txt": "/qtimer/static/js/2.608e9bd4.chunk.js.LICENSE.txt",
-    "static/media/chime.2e8dd27a.wav": "/qtimer/static/media/chime.2e8dd27a.wav"
+    "static/media/chime.2e8dd27a.wav": "/qtimer/static/media/chime.2e8dd27a.wav",
+    "static/media/socrates.0f137ab9.png": "/qtimer/static/media/socrates.0f137ab9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0ff6087d.js",
     "static/js/2.608e9bd4.chunk.js",
-    "static/css/main.59c4bd2a.chunk.css",
-    "static/js/main.3d05252f.chunk.js"
+    "static/css/main.847fdc6c.chunk.css",
+    "static/js/main.9a2a2914.chunk.js"
   ]
 }
